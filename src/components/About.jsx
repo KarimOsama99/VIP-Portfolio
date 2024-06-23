@@ -2,21 +2,21 @@ import React, { useEffect } from 'react';
 import WOW from 'wowjs';
 import { HiMail } from "react-icons/hi";
 import { BsTelephoneFill } from "react-icons/bs";
-import Html from "../assets/images/html.png";
-import Css from "../assets/images/css.png";
-import Js from "../assets/images/js.png";
-import Bootstrap from "../assets/images/bootstrap.png";
+import Html from "../assets/images/html.webp";
+import Css from "../assets/images/css.webp";
+import Js from "../assets/images/js.webp";
+import Bootstrap from "../assets/images/bootstrap.webp";
 import Jquery from "../assets/images/jquery.webp";
-import Reactjs from "../assets/images/react.png";
-import Php from "../assets/images/php.png";
-import Laravel from "../assets/images/laravel.png";
-import Next from "../assets/images/next.png";
-import Mysql from "../assets/images/mysql.png";
-import Linux from "../assets/images/linux.png";
-import Git from "../assets/images/git.png";
-import WordPress from "../assets/images/wordpress.png";
-import Ps from "../assets/images/ps.png";
-import Figma from "../assets/images/figma.png"
+import Reactjs from "../assets/images/react.webp";
+import Php from "../assets/images/php.webp";
+import Laravel from "../assets/images/laravel.webp";
+import Next from "../assets/images/next.webp";
+import Mysql from "../assets/images/mysql.webp";
+import Linux from "../assets/images/linux.webp";
+import Git from "../assets/images/git.webp";
+import WordPress from "../assets/images/wordpress.webp";
+import Ps from "../assets/images/ps.webp";
+import Figma from "../assets/images/figma.webp"
 
 const About = () => {
   useEffect(() => {

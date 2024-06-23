@@ -2,30 +2,30 @@ import React, { useEffect } from 'react';
 import WOW from 'wowjs';
 import { GrShare } from "react-icons/gr";
 // import { MagnificPopup } from "react-magnific-popup";
-import kater from '../assets/images/portfolio/kater.png';
-import kater2 from "../assets/images/portfolio/KhaterFoundation.png";
-import ezhalha from "../assets/images/portfolio/ezhalha.png";
-import ezhalha2 from "../assets/images/portfolio/Home.png";
-import minible from "../assets/images/portfolio/minible.png";
-import minible2 from "../assets/images/portfolio/minbible-com.png";
-import pay from "../assets/images/portfolio/pay.png";
-import pay2 from "../assets/images/portfolio/PayShip.png";
-import gold from "../assets/images/portfolio/gold.png";
-import gold2 from "../assets/images/portfolio/أفضل-منصة-ذهب-ومجوهرات-اون-لاين-في-السعودية-جولد-بوليفارد.png";
-import vien from "../assets/images/portfolio/vien.png";
-import vien2 from "../assets/images/portfolio/مختبرات-فين.png";
-import mayasem from "../assets/images/portfolio/mayasem.png";
-import mayasem2 from "../assets/images/portfolio/مياسم-العقار.png";
-import monasib from "../assets/images/portfolio/مؤسسة-المناسب.png";
-import monasib2 from "../assets/images/portfolio/monasib.png";
-import portafoto from "../assets/images/portfolio/portafoto.png";
-import portafoto2 from "../assets/images/portfolio/Home-Portafoto.png";
-import almni from "../assets/images/portfolio/3lmni.png";
-import almni2 from "../assets/images/portfolio/3lmni-school-Home.png";
-import fusion from "../assets/images/portfolio/FUSION.png";
-import fusion2 from "../assets/images/portfolio/fusionfull.png";
-import golds from "../assets/images/portfolio/goldsgym.png";
-import golds2 from "../assets/images/portfolio/Gold-s-Gym-Egypt.png";
+import kater from '../assets/images/portfolio/kater.webp';
+import kater2 from "../assets/images/portfolio/KhaterFoundation.webp";
+import ezhalha from "../assets/images/portfolio/ezhalha.webp";
+import ezhalha2 from "../assets/images/portfolio/Home.webp";
+import minible from "../assets/images/portfolio/minible.webp";
+import minible2 from "../assets/images/portfolio/minbible-com.webp";
+import pay from "../assets/images/portfolio/pay.webp";
+import pay2 from "../assets/images/portfolio/PayShip.webp";
+import gold from "../assets/images/portfolio/gold.webp";
+import gold2 from "../assets/images/portfolio/أفضل-منصة-ذهب-ومجوهرات-اون-لاين-في-السعودية-جولد-بوليفارد.webp";
+import vien from "../assets/images/portfolio/vien.webp";
+import vien2 from "../assets/images/portfolio/مختبرات-فين.webp";
+import mayasem from "../assets/images/portfolio/mayasem.webp";
+import mayasem2 from "../assets/images/portfolio/مياسم-العقار.webp";
+import monasib from "../assets/images/portfolio/مؤسسة-المناسب.webp";
+import monasib2 from "../assets/images/portfolio/monasib.webp";
+import portafoto from "../assets/images/portfolio/portafoto.webp";
+import portafoto2 from "../assets/images/portfolio/Home-Portafoto.webp";
+import almni from "../assets/images/portfolio/3lmni.webp";
+import almni2 from "../assets/images/portfolio/3lmni-school-Home.webp";
+import fusion from "../assets/images/portfolio/FUSION.webp";
+import fusion2 from "../assets/images/portfolio/fusionfull.webp";
+import golds from "../assets/images/portfolio/goldsgym.webp";
+import golds2 from "../assets/images/portfolio/Gold-s-Gym-Egypt.webp";
 
 
 const Portfolio = () => {
@@ -129,7 +129,7 @@ const Portfolio = () => {
                         </div>
                         <div class="gallery-icon">
                             <a class="image-popup" href={vien2}>
-                                <span>Vien <br/> Labs</span>
+                                <span>Vien Labs</span>
                             </a>
                             <a class="demo" target="_blank" href="https://veinlab.net/">
                                 <GrShare />

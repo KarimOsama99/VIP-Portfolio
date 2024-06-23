@@ -5,7 +5,7 @@ import { HiOutlineCloudDownload } from "react-icons/hi";
 import { FaFacebook } from "react-icons/fa6";
 import { BsLinkedin } from "react-icons/bs";
 import { BsGithub } from "react-icons/bs";
-import cy from "../assets/cy.png";
+import cy from "../assets/cy.webp";
 import cv from "../assets/karimCV.pdf";
 import { NavLink } from "react-router-dom";
 
@@ -45,7 +45,7 @@ useEffect(() => {
                 href={cv}
                 className="cv wow animated backInLeft"
                 id="cv"
-                download
+                target="_blank"
               >
                 Download CV <HiOutlineCloudDownload />
               </a>
@@ -53,7 +53,7 @@ useEffect(() => {
                 to="/contact"
                 className="contact-btn  wow animated backInRight"
               >
-                Contact Me
+                Let's Talk!
               </NavLink>
             </div>
             <div className="social-links">
